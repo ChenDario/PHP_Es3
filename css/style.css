@@ -1,0 +1,21 @@
+.form{
+    text-align: center;
+    width: 60%;
+    margin: auto;
+}
+
+.form-label {
+    font-size: 50px;
+}
+
+#lastname, #firstname {
+    width: 75%;
+    margin: auto;   
+}
+
+.form-check{
+    font-size: 20px;
+    width: 20%;
+    margin: auto;
+    text-align: left;
+}
